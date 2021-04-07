@@ -1,5 +1,7 @@
 # camera
-
+Install these before run app
+npm install --save-dev @angular-devkit/build-angular
+npm install @nativescript/camera --save 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
 ## Development server
